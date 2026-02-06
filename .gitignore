@@ -1,0 +1,12 @@
+notepad .gitignore
+# Node
+node_modules/
+.next/
+dist/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
