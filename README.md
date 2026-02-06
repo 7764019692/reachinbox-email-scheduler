@@ -262,18 +262,4 @@ Basic UI error handling for clarity
 
 👨‍💻 Author Notes
 
-This project was built to closely match ReachInbox’s internal scheduling systems, focusing on:
 
-Reliability
-
-Persistence
-
-Scalability
-
-Clean backend structure
-
-
-
-🎥 demo script bolna sikha du
-
-Bas bolo 👍
